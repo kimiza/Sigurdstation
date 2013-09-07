@@ -1,0 +1,1 @@
+irazgriz: ter' za: /obj/item/weapon/storage/pill_bottle/fluff/ter_za_1 irazgriz: ter' za: /obj/item/weapon/storage/pill_bottle/fluff/ter_za_2
