@@ -11,6 +11,67 @@ hi
 ////////// Fluff Items ///////////
 //////////////////////////////////
 
+
+/obj/item/clothing/suit/unathi/mantle/Tarla_mantle //Tarla Varkarian //SUPER FUCKING DONE.
+	name = "Paper Pusher Hide"
+	desc = "A hide strewn together from the skins of bureaucrats who didn't make the grade."
+
+//obj/item/clothing/shoes/jackboots/nia_boots //nia //Needs the sprites.
+//	name = "Nia's worn-out Jackboots"
+//	desc = "An old pair of jackboots scuffed and worn from years of use."
+//	icon_state = "Reserved"
+//	item_state = "Reserved"
+
+//obj/item/clothing/suit/storage/forensics/nia_jacket //Nia //Needs the sprites.
+//	name = "Nia's Worn-out Jacket"
+//	desc = "A worn-out, old jacket that has obviously seen better days."
+//	icon_state = "Reserved"
+//	item_state = "Reserved"
+
+/obj/item/clothing/under/dress/dress_saloon/ayden_dress //Ayden Capstan.
+	name = "Ayden's bar uniform"
+	desc = "A wonderfully made, red saloon dress with a pair of black fishnet stockings."
+
+/obj/item/weapon/reagent_containers/food/drinks/coffee/Ashlyn_coffee //Ashlyn Wolfe
+	name = "'NT' coffee"
+	desc = "A rich smelling aroma of fresh coffee that has a small piece of paper with the word 'Robust coffee' plastered over the original brand name."
+
+/obj/item/clothing/under/johnny/adahm_suit //Adahm Slanislough
+	name = "Tattered Uniform"
+	desc = "An old and tattered beige uniform, reminiscent of days gone by. It smells like bleach and must."
+
+/obj/item/clothing/under/fluff/jane_sidsuit/Nora_suit //Nora Ainsley.
+	name = "Mechanic's Speedsuit"
+	desc = "A thermodynamic jumpsuit designed for work in heated conditions. The zipper along the front zips down for further, easy-to-access, heat reduction."
+
+/obj/item/clothing/shoes/galoshes/Jon_Galoshes //Jon Riker
+	name = "Jon's Galoshes"
+	desc = "Never leaving home without them, Jon always seems to be wearing his Galoshes regardless of what he is doing. On a closer inspection, it seems that they were specially made for a lizard's clawed feet, having more room and some extra padding."
+
+/obj/item/clothing/suit/chaplain_hoodie/jakob_robe //Jakob Hess
+	name = "Jakobs Robe"
+	desc = "A red hood with black lining and a golden trim,"
+	icon_state = "cultrobes"
+	item_state = "cultrobes"
+
+/obj/item/clothing/head/chaplain_hood/Jakob_hood //Jakob Hess
+	name = "Jakobs hood"
+	desc = "A red hood with black lining and a golden trim"
+	icon_state = "culthood"
+	item_state = "culthood"
+
+/obj/item/clothing/mask/gas/cyborg/jakob_mask //Jakob Hess
+	name = "Black rage"
+	desc = "A skeletal mask, it has the number 777 carved into the forehead"
+
+/obj/item/clothing/shoes/jackboots/jakob_boots //Jakob Hess
+	name = "Jack boots"
+	desc = "Brilliantly polished combat boots."
+
+/obj/item/clothing/shoes/white/rob_shoes //Rob McNumpty
+	name = "Goin' oot trainers"
+	desc = "A scuffed up pair of white sneakers, they'd look relatively new if not for liberal application of duct tape around the toes, the duct tape has obviously been painted white."
+
 /obj/item/clothing/fluff/drakken_bjorn_1
 	name = "red tie"
 	desc = "A tie with a +5 to Willpower, typically worn by the White and Nordy."
