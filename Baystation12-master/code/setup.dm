@@ -142,7 +142,7 @@ var/turf/space/Space_Tile = locate(/turf/space) // A space tile to reference whe
 								// was 2 atm
 
 //This was a define, but I changed it to a variable so it can be changed in-game.(kept the all-caps definition because... code...) -Errorage
-var/MAX_EXPLOSION_RANGE = 14
+var/MAX_EXPLOSION_RANGE = 128
 //#define MAX_EXPLOSION_RANGE		14					// Defaults to 12 (was 8) -- TLE
 
 #define HUMAN_STRIP_DELAY 40 //takes 40ds = 4s to strip someone.
